@@ -108,7 +108,7 @@ Integrated Development Environments (IDEs):
 
 Version Control Systems (VCS):
 
-- Importance:
+ Importance:
   - Collaboration: VCS allows multiple developers to work on the same codebase simultaneously, managing changes and merging contributions effectively.
   - History Tracking: It keeps a history of all changes made to the codebase, allowing developers to track progress, revert to previous versions, and understand the evolution of the 
     project.
